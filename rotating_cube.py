@@ -110,6 +110,11 @@ while True:
                     [sin(angle_z), cos(angle_z), 0],
                     [0, 0, 1]]
 
+  angle_x += 0.02
+  angle_y += 0.02
+  angle_z += 0.02
+
+
     points = [0 for _ in range(len(cube_points))]
     i = 0
     for point in cube_points:
