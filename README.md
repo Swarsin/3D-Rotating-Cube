@@ -1,0 +1,1 @@
+Simple implementation of a further maths topic to this program, which applies rotation matrices to points of a cube and repeatedly displays them while connecting the points to create an image of a rotating cube. 
